@@ -22,7 +22,7 @@ Listar
 
 > GET `http://localhost:3000/projects`
 
-Criar um projeto:
+Criar um projeto
 
 > POST `http://localhost:3000/projects`
 >
@@ -30,7 +30,7 @@ Criar um projeto:
 >
 > `{"id": 1,"title": "Primeiro projeto"}`
 
-Editar o projeto:
+Editar o projeto
 
 > PUT `http://localhost:3000/projects/:id`
 >
@@ -38,7 +38,7 @@ Editar o projeto:
 >
 > `{"title": "Projeto bem legal"}`
 
-Criar tarefas do projeto:
+Criar tarefas do projeto
 
 > POST `http://localhost:3000/projects/:id/tasks`
 >
@@ -46,6 +46,6 @@ Criar tarefas do projeto:
 >
 > `{"title": "Primeira tarefa"}`
 
-Deletar projeto:
+Deletar projeto
 
 > DELETE `http://localhost:3000/projects/:id`
