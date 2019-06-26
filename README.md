@@ -1,6 +1,6 @@
 # Bootcamp-gostack-desafio-01
 
-Neste desafio criei uma api para listagar, criar, editar e remover.
+Neste desafio criei uma api para listar, criar, editar e remover um projeto.
 
 Instalação
 
